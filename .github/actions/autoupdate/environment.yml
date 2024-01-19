@@ -1,0 +1,7 @@
+name: miniconda-autoupdate
+channels:
+  - gsoc2
+  - nodefaults
+dependencies:
+  - packaging
+  - requests

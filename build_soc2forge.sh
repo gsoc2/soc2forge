@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Build miniforge installers for Linux
+# Build soc2forge installers for Linux
 # on various architectures (aarch64, x86_64, ppc64le)
 # Notes:
 # It uses the qemu emulator (see [1] or [2]) to enable
